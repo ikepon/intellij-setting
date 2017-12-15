@@ -29,6 +29,9 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="ShowProjectStructureSettings" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
