@@ -1,8 +1,21 @@
-<code_scheme name="Default (2)">
+<code_scheme name="Default (2)" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
+  <Ruby>
+    <option name="INDENT_WHEN_CASES" value="false" />
+  </Ruby>
   <TypeScriptCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Jade">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -18,7 +31,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="INDENT_WHEN_CASES" value="false" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="USE_RELATIVE_INDENTS" value="false" />
