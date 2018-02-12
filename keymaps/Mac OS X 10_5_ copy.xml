@@ -30,6 +30,10 @@
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="meta alt enter" />
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
   <action id="GotoLine" />
   <action id="GotoRow" />
   <action id="NextTab">
