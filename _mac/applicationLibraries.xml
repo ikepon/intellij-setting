@@ -4526,11 +4526,13 @@
     </library>
     <library name="byebug (v9.1.0, rbenv: 2.4.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/lib" />
@@ -16102,6 +16104,7 @@
     </library>
     <library name="nokogiri (v1.8.0, rbenv: 2.4.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/tasks" />
@@ -16110,6 +16113,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/tasks" />
@@ -17524,12 +17528,14 @@
     </library>
     <library name="puma (v3.10.0, rbenv: 2.4.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.10.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.10.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/lib" />
@@ -19712,11 +19718,13 @@
     </library>
     <library name="rb-fsevent (v0.10.2, rbenv: 2.4.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
