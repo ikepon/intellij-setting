@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="php" type="Native" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
