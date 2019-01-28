@@ -10,20 +10,5 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.rb</mask>
-      <mask>*.scss</mask>
-      <mask>*.css</mask>
-      <mask>*.js</mask>
-      <mask>*.coffeee</mask>
-      <mask>*.coffee</mask>
-      <mask>*.html</mask>
-    </recentFileMasks>
   </component>
 </application>
