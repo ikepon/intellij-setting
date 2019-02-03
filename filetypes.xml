@@ -17,6 +17,7 @@
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".rubyversion" type="PLAIN_TEXT" />
       <mapping pattern="cv_device_graph.xlsx.axlsx" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="startup" type="PLAIN_TEXT" />
