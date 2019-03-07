@@ -25,6 +25,7 @@
       <mapping pattern=".db_host" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="resolve" type="PLAIN_TEXT" />
       <mapping pattern="line" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".db_password.sample" type="PLAIN_TEXT" />
