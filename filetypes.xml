@@ -12,7 +12,6 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".db_password" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
