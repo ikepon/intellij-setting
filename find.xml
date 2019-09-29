@@ -10,7 +10,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,8 +19,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*.rb</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
-    <mask>*.rb</mask>
   </component>
 </application>
