@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tpl" type="Native" />
       <mapping ext="php" type="Native" />
       <mapping pattern=".db_password" type="PLAIN_TEXT" />
       <mapping pattern="indexljs" type="PLAIN_TEXT" />
@@ -9,7 +8,6 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="元ももクロ・伊倉愛美がイメージDVDを発売!色気満載・四つん這いで…｜MARBLE [マーブル]" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -26,7 +24,6 @@
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".db_host" type="PLAIN_TEXT" />
       <mapping pattern="engineer" type="PLAIN_TEXT" />
-      <mapping pattern="【意外と怖い】ブルーライトが人体に与える影響＆今すぐできる対策3つ - closet（クローゼット）｜女の子たちの毎日をちょっとおしゃれに！" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".db_password.sample" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
@@ -38,6 +35,7 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
@@ -51,6 +49,9 @@
       <mapping ext="jb" type="Ruby" />
       <mapping ext="ruby" type="Ruby" />
       <mapping ext="axlsx" type="Ruby" />
+      <removed_mapping pattern="元ももクロ・伊倉愛美がイメージDVDを発売!色気満載・四つん這いで…｜MARBLE [マーブル]" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="tpl" approved="true" type="Native" />
+      <removed_mapping pattern="【意外と怖い】ブルーライトが人体に与える影響＆今すぐできる対策3つ - closet（クローゼット）｜女の子たちの毎日をちょっとおしゃれに！" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
