@@ -15,7 +15,6 @@
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
-      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="indexljs" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
@@ -24,9 +23,10 @@
       <mapping pattern="cv_device_graph.xlsx.axlsx" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="startup" type="PLAIN_TEXT" />
-      <mapping pattern=".db_host" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
+      <mapping pattern=".db_host" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="resolve" type="PLAIN_TEXT" />
       <mapping pattern="line" type="PLAIN_TEXT" />
@@ -38,7 +38,6 @@
       <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
