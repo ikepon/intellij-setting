@@ -2,55 +2,56 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="php" type="Native" />
-      <mapping pattern=".db_password" type="PLAIN_TEXT" />
-      <mapping pattern="indexljs" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern="production" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="engineer" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="resolve" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".env.yasumoto" type="PLAIN_TEXT" />
-      <mapping pattern="startup" type="PLAIN_TEXT" />
-      <mapping pattern=".envrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".db_password" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern="sandbox" type="PLAIN_TEXT" />
+      <mapping pattern="cv_device_graph.xlsx.axlsx" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="sandbox" type="PLAIN_TEXT" />
-      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
-      <mapping pattern=".db_host" type="PLAIN_TEXT" />
-      <mapping pattern="engineer" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
-      <mapping pattern=".db_password.sample" type="PLAIN_TEXT" />
-      <mapping pattern="dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".digdag.config" type="PLAIN_TEXT" />
-      <mapping pattern="cv_device_graph.xlsx.axlsx" type="PLAIN_TEXT" />
-      <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="indexljs" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".rubyversion" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
+      <mapping pattern="production" type="PLAIN_TEXT" />
+      <mapping pattern="startup" type="PLAIN_TEXT" />
+      <mapping pattern=".db_host" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
+      <mapping pattern="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="resolve" type="PLAIN_TEXT" />
       <mapping pattern="line" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".db_password.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".digdag.config" type="PLAIN_TEXT" />
+      <mapping ext="ci" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="go" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="ci" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="forimage" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="go" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping pattern="oauths" type="Ruby" />
+      <mapping ext="axlsx" type="Ruby" />
       <mapping ext="jb" type="Ruby" />
       <mapping ext="ruby" type="Ruby" />
-      <mapping ext="axlsx" type="Ruby" />
-      <removed_mapping pattern="元ももクロ・伊倉愛美がイメージDVDを発売!色気満載・四つん這いで…｜MARBLE [マーブル]" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="【意外と怖い】ブルーライトが人体に与える影響＆今すぐできる対策3つ - closet（クローゼット）｜女の子たちの毎日をちょっとおしゃれに！" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="py" approved="true" type="Native" />
+      <removed_mapping pattern="【意外と怖い】ブルーライトが人体に与える影響＆今すぐできる対策3つ - closet（クローゼット）｜女の子たちの毎日をちょっとおしゃれに！" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="元ももクロ・伊倉愛美がイメージDVDを発売!色気満載・四つん這いで…｜MARBLE [マーブル]" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
