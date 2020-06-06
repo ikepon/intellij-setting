@@ -12,7 +12,6 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".db_password" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern="cv_device_graph.xlsx.axlsx" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".terraform-version" type="PLAIN_TEXT" />
@@ -23,11 +22,11 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".rubyversion" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
+      <mapping pattern="cv_device_graph.xlsx.axlsx" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="startup" type="PLAIN_TEXT" />
       <mapping pattern=".db_host" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="resolve" type="PLAIN_TEXT" />
       <mapping pattern="line" type="PLAIN_TEXT" />
@@ -36,6 +35,7 @@
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".digdag.config" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
