@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="20201115_サイボウズ開発スピードを上げる取り組み" type="Markdown" />
       <mapping ext="php" type="Native" />
       <mapping pattern=".bookignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
