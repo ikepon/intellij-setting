@@ -2612,6 +2612,25 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/net-telnet-0.2.0/bin" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.11.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.11.2-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.11.2-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.11.2-x86_64-darwin/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.11.2-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.11.2-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.11.2-x86_64-darwin/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.11.2-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.11.2-x86_64-darwin/ext" />
+      </excluded>
+    </library>
     <library name="observer (v0.1.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3349,6 +3368,37 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="racc (v1.5.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/web" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/rdoc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/web" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/rdoc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/web" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/rdoc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/racc-1.5.2/sample" />
+      </excluded>
     </library>
     <library name="rake (v10.4.2, rbenv: 2.3.1) [gem]" type="rubylib">
       <properties>
