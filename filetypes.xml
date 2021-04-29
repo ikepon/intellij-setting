@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="ng" type="HTML" />
-      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="20201115_サイボウズ開発スピードを上げる取り組み" type="Markdown" />
       <mapping ext="php" type="Native" />
-      <mapping pattern=".bookignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".bookignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".db_password" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
@@ -14,11 +15,11 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="getSubscriptionUrl" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping pattern="boolean" type="PLAIN_TEXT" />
+      <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="cv_device_graph.xlsx.axlsx" type="PLAIN_TEXT" />
@@ -61,6 +62,7 @@
       <mapping ext="ruby" type="Ruby" />
       <mapping ext="axlsx" type="Ruby" />
       <mapping ext="jb" type="Ruby" />
+      <mapping ext="tsv" type="TSV" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
       <mapping pattern="tsconfig.editor.json" type="tsconfig" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
