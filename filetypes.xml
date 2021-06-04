@@ -12,15 +12,15 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="getSubscriptionUrl" type="PLAIN_TEXT" />
-      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="boolean" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="cv_device_graph.xlsx.axlsx" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="cv_device_graph.xlsx.axlsx" type="PLAIN_TEXT" />
       <mapping pattern=".terraform-version" type="PLAIN_TEXT" />
       <mapping pattern="line" type="PLAIN_TEXT" />
       <mapping pattern=".env.yasumoto" type="PLAIN_TEXT" />
